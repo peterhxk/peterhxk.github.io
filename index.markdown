@@ -15,7 +15,7 @@ I am also an **incoming Data Science/Engineer Intern** at **Transport Canada** f
 
 - [**Traffic Light AI**](https://github.com/AITrafficGroupMcGill/TrafficAI) (On Going Project):
   Working with a group of classmates to develop an AI solution to optimizing traffic.
-- [**ITrackApply Google Extension**](https://github.com/peterhxk/itrackapply):
+- [**ITrackApply Google Extension**](https://www.youtube.com/embed/KrnUM2nuuWE):
 Developped a user-friendly Google Extension for automatically tracking job applications onto a google spreadsheet.
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KrnUM2nuuWE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
