@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Greetings!
+## **Greetings!**
 
 I am a Computer Engineering student at McGill University with a specialty in AWS Cloud Architecture.
 
@@ -11,7 +11,7 @@ This summer, I am working with **CoinChain Inc.** as a **Cloud Architect Intern*
 
 I am also an **incoming Data Science/Engineer Intern** at **Transport Canada** for Fall Semester!!
 
-### Projects
+### **Projects**
 
 - [**Traffic Light AI**](https://github.com/AITrafficGroupMcGill/TrafficAI) (On Going Project):
   Working with a group of classmates to develop an AI solution to optimizing traffic.
