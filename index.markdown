@@ -7,9 +7,9 @@ title: Home
 
 I am a Computer Engineering student at McGill University with a specialty in AWS Cloud Architecture.
 
-This summer, I am working with **CoinChain Inc.** as a **Cloud Architect Intern** and I will also join **CloudAct CPA** as an **AI Agent Developer**!!
+This summer, I am working with **CoinChain Inc.** as a **Cloud Architect Intern** and I will also join **CloudAct CPA** as an **AI Agent Developer** for August!!
 
-This fall, I will be joining **Transport Canada** as a **Data Science/Engineer Intern**!!
+I am also an **incoming Data Science/Engineer Intern** at **Transport Canada** for **Fall**!!
 
 ### Projects
 
