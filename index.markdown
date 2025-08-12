@@ -9,7 +9,7 @@ I am a Computer Engineering student at McGill University with a specialty in AWS
 
 This summer, I am working with **CoinChain Inc.** as a **Cloud Architect Intern** and I joined **CloudAct CPA** as an **AI Agent Developer** for August.
 
-I am also an **incoming Data Science/Engineer Intern** at **Transport Canada** for Fall Semester!!
+I am an **incoming Data Science/Engineer Intern** at Transport Canada's eBIDA team and **incoming Student Researcher** at McGill AI Lab's News Bias team for Fall Semester!!
 
 ### **Projects**
 
