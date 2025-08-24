@@ -13,8 +13,8 @@ I am an **incoming Data Science/Engineer Intern** at Transport Canada's eBIDA te
 
 ### **Projects**
 
-- [**Traffic Light AI**](https://github.com/AITrafficGroupMcGill/TrafficAI) (On Going Project):
-  Working with a group of classmates to develop an AI solution to optimizing traffic.
+- [**Word2Stock**](https://github.com/peterhxk/Word2Stocks) (On Going Project):
+  Working with a group of classmates to develop a scalable, cloud-native pipeline for ingesting, processing, and analyzing news and social media data to assess sentiment and bias towards publicly traded companies using NLP techniques.
 - [**ITrackApply Google Extension**](https://www.youtube.com/embed/KrnUM2nuuWE):
 Developped a user-friendly Google Extension for automatically tracking job applications onto a google spreadsheet.
 <div style="text-align: center;">
