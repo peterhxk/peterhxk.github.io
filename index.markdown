@@ -14,7 +14,7 @@ I am an **incoming Data Science/Engineer Intern** at Transport Canada's eBIDA te
 ### **Projects**
 
 - [**Word2Stock**](https://github.com/peterhxk/Word2Stocks) (On Going Project):
-  Working with a group of classmates to develop an **AWS cloud-native** pipeline for **data processing** news and social media data with **NLP techniques** to assess sentiment and bias towards companies.
+  Working with a group of classmates to develop an **AWS** cloud-native pipeline for data processing news and social media data with **NLP** techniques to assess sentiment and bias towards companies.
 - [**ITrackApply Google Extension**](https://www.youtube.com/embed/KrnUM2nuuWE):
 Developped a user-friendly Google Extension for automatically tracking job applications onto a google spreadsheet.
 <div style="text-align: center;">
