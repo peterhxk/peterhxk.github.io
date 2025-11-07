@@ -14,7 +14,7 @@ I am a Computer Engineering student at McGill University with a passion in Cloud
 {% capture drakkar_content %}
 
 <ul>
-  <li>Implemented a Lua-based XMT dissector in Wireshark to extract and decode stock trade information from captured PCAP network packets, streamlining analysis of financial data streams</li>
+  <li>As an assessment, successfully implemented a Lua-based XMT dissector in Wireshark to extract and decode stock trade information from captured PCAP network packets, streamlining analysis of financial data streams</li>
 </ul>
 {% endcapture %}
 {% include experience-block.html 
